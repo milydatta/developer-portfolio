@@ -165,3 +165,10 @@ main section{
     text-align: center;
     margin-top: 50px;
 }
+ /* Footer styles*/
+ footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+ }
